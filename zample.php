@@ -97,6 +97,7 @@ function escape($uri){
 }?>
 <!doctype html>
 <html lang="zh">
+        <title>Hacked By Salahdin1337</title>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
